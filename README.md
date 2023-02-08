@@ -1,7 +1,7 @@
 # Neural_Style_Transfer
 NST using pretrained VGG-19 architecture
 
-1. hello
+
 ![generated (8)](https://user-images.githubusercontent.com/111515619/217524813-ca166a38-d16c-4aea-8da0-2c8cfed94383.jpeg)
 ![van-gogh-starry-night-min](https://user-images.githubusercontent.com/111515619/217524826-dd8de0ba-c6c8-4e63-8761-7b97068d793f.jpg)
 
