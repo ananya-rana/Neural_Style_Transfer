@@ -3,7 +3,7 @@
 
 o	This project uses a convolutional neural network, a pretrained VGG-19, to capture the essence of both the content and style of two images and then combine them to create a new image.</br>
 o	Because of low computing resources, I did not begin training from random noise vector, but instead began training by taking the generated image as a clone of the content image and made the generated image's parameters trainable so that it can learn the style of the style image.</br>
-o	I wanted to do this project to integrate the hobbies of my parents, namely bird photography and painting, to create a unique symbol of their love. I also transferred the style of other famous artists’ paintings to the content image.</br>
+o	I wanted to do this project to integrate the hobbies of my parents, namely bird photography and painting.</br>
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
