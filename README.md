@@ -22,6 +22,6 @@ NST using pretrained VGG-19 architecture
 ![van-gogh-starry-night-min](https://user-images.githubusercontent.com/111515619/217525481-96383545-d710-4a33-9bb9-9798ce246c15.jpg)
 
 -----------------------------------------------------------------------------------------------------
-
+![best_bird_output](https://user-images.githubusercontent.com/111515619/218423131-1c9c4ded-42a5-47b4-adef-5c5bc53e0385.jpg)
 ![generated (15)](https://user-images.githubusercontent.com/111515619/217525710-a0854cc9-c771-4123-b286-b1f8f4dbc177.jpeg)
 ![nude+descending+a+staircase](https://user-images.githubusercontent.com/111515619/217525740-497e0f0f-e3a5-4e2f-b51b-8f55e3c83e38.jpg)
