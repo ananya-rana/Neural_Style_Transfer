@@ -7,7 +7,7 @@ o	I wanted to do this project to integrate the hobbies of my parents, namely bir
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-<img src="![generated (8)](https://user-images.githubusercontent.com/111515619/217524813-ca166a38-d16c-4aea-8da0-2c8cfed94383.jpeg)" alt="drawing" height = "250" width="400"/>
+<img src="https://user-images.githubusercontent.com/111515619/217524813-ca166a38-d16c-4aea-8da0-2c8cfed94383.jpeg" alt="drawing" width="200"/>
 ![generated (17)](https://user-images.githubusercontent.com/111515619/217525445-f8ee02fa-b6e6-4cfe-99fe-ed30a3aa105f.jpeg)
 
 ![van-gogh-starry-night-min](https://user-images.githubusercontent.com/111515619/217524826-dd8de0ba-c6c8-4e63-8761-7b97068d793f.jpg)
