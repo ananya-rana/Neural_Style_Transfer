@@ -13,8 +13,7 @@ o	I wanted to do this project to integrate the hobbies of my parents, namely bir
 
 -----------------------------------------------------------------------------------------------------
 
-![generated (13)](https://user-images.githubusercontent.com/111515619/217524861-26932162-0cfd-4bde-b849-84ea7a9d0208.jpeg)
-![the-scream](https://user-images.githubusercontent.com/111515619/217524877-070a973b-dd11-483a-bc60-f304003d00b9.jpg)
+![generated (13)](https://user-images.githubusercontent.com/111515619/217524861-26932162-0cfd-4bde-b849-84ea7a9d0208.jpeg) <img src="https://user-images.githubusercontent.com/111515619/217524877-070a973b-dd11-483a-bc60-f304003d00b9.jpg" alt="drawing" height ="250" width="400"/>
 
 -----------------------------------------------------------------------------------------------------
 
