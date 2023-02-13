@@ -18,7 +18,7 @@ o	I wanted to do this project to integrate the hobbies of my parents, namely bir
 -----------------------------------------------------------------------------------------------------
 
 <img src="https://user-images.githubusercontent.com/111515619/217524953-d7fb7606-cf71-4ad7-98d5-22a3584b2a7a.jpeg" alt="drawing" height ="400" width="250"/> ![generated (9)](https://user-images.githubusercontent.com/111515619/217525070-2f2b6c81-d3cf-4a98-8ff1-14825749182c.jpeg)
-<img src="https://user-images.githubusercontent.com/111515619/217524966-818f66b0-ebf0-4365-8c2e-7819c108cc2c.jpeg" alt="drawing" height ="400" width="750"/>
+<img src="https://user-images.githubusercontent.com/111515619/217524966-818f66b0-ebf0-4365-8c2e-7819c108cc2c.jpeg" alt="drawing" height ="400" width="600"/>
 
 -----------------------------------------------------------------------------------------------------
 ![best_bird_output](https://user-images.githubusercontent.com/111515619/218423131-1c9c4ded-42a5-47b4-adef-5c5bc53e0385.jpg)
